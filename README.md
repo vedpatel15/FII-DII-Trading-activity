@@ -37,5 +37,5 @@ Fii Dii Trading activity.pbix – Power BI file with complete visualizations and
 This project presents a data-backed narrative of how institutional investors react to macroeconomic changes. It serves as a helpful resource for financial analysts, students, and data enthusiasts aiming to connect market data with real-world events.
 
 
-[image alt](https://github.com/vedpatel15/FII-DII-Trading-activity/commit/afcacb1ee4425bed4bff3c188f6d300dc7aa12b8)
+
 
